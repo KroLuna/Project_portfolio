@@ -21,13 +21,7 @@ export const Header = () => {
           <h2>Frontend Developer</h2>
         </div>
         <p>
-          Caro is a newly graduated web developer with a comprehensive skill set
-          acquired through an intensive web development bootcamp. Experienced in
-          frontend and backend development, including JavaScript, React, AI
-          integration, and database management. Skilled in pair programming and
-          problem-solving, combining technical expertise with creativity. Fluent
-          in English, Swedish, and Spanish, passionate about coding and
-          continuously learning within the technology industry.
+          Carolina is a web developer with a solid foundation from an intensive web development bootcamp. Comfortable working with both frontend and backend development, including JavaScript, TypeScript, React, AI integration, and database management. Has experience in pair programming and problem-solving, combining technical knowledge with creativity. Fluent in English, Swedish, and Spanish, and enjoys coding and learning more about the tech industry.
         </p>
       </div>
       <button className="next-section-arrow" onClick={scrollTo}>
